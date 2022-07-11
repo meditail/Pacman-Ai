@@ -2,7 +2,7 @@ import pygame
 import enum
 from color import Color
 
-RADIUS = 20
+RADIUS = 25
 SPEED = 5
 
 
